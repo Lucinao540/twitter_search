@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 27 19:55:02 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=twitter__fat.jar
+manifest.mergeall=true
+manifest.mainclass=twitter4j.examples.search.SearchTweets_B0
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

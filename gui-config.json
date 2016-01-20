@@ -1,0 +1,104 @@
+{
+"configs" : [
+  {
+"server" : "103.28.45.66",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "74.82.169.109",
+"server_port" : 8388,
+"password" : "myncic_123456",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "204.74.215.35",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.46.149",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.46.165",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.46.179",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.45.226",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.45.203",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.45.187",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "203.124.12.170",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.44.60",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.44.138",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+,
+  {
+"server" : "103.28.44.185",
+"server_port" : 443,
+"password" : "isi2015",
+"method" : "aes-256-cfb",
+"remarks" : ""}
+
+],
+"strategy" : null,
+"index" : 1,
+"global" : true,
+"enabled" : false,
+"shareOverLan" : true,
+"isDefault" : false,
+"localPort" : 8124,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : true}
